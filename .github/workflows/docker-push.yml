@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: githubactionsiti2025.azurecr.io
-  IMAGE_NAME: flask-k8s-Omar-Adawy
+  IMAGE_NAME: flask-k8s-omar-dawy
 
 jobs:
   build-and-push:
